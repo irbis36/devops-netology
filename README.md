@@ -12,3 +12,4 @@
 - `.terraformrc`, `terraform.rc` — файлы конфигурации CLI
 
 ## Fix branch test line
+IDE commit test via Git GUI
