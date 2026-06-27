@@ -1,1 +1,1 @@
-# devops-netology
+# devops-netology## Описание курса DevOps
