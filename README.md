@@ -10,3 +10,6 @@
 - `override.tf`, `*_override.tf` — файлы локальных переопределений
 - `.terraform.tfstate.lock.info` — файлы блокировки
 - `.terraformrc`, `terraform.rc` — файлы конфигурации CLI
+
+## Fix branch test line
+IDE commit test via Git GUI
